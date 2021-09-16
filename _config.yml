@@ -1,0 +1,78 @@
+---
+booktitle: Proceedings of 2nd Workshop on Diversity in Artificial Intelligence (AIDBEI)
+shortname: AIDBEI
+volume: '142'
+year: '2021'
+start: 2021-02-09
+end: 2021-02-09
+published: 2021-09-16
+url: https://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: AIDBEI-2021
+month: 0
+cycles: false
+bibtex_editor: Lamba, Deepti and Hsu, William H.
+editor:
+- given: Deepti
+  family: Lamba
+- given: William H.
+  family: Hsu
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of 2nd Workshop on Diversity in Artificial Intelligence (AIDBEI)
+    Held in Virtual on 09 February 2021
+
+  Published as Volume 142 by the Proceedings of Machine Learning Research on 16 September 2021.
+
+  Volume Edited by:
+    Deepti Lamba
+    William H. Hsu
+
+  Series Editors:
+    Neil D. Lawrence
+    * Mark Reid
+date_str: '09 Feb'
+author:
+  name: PMLR
+baseurl: "/v142"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v142
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v142
+email: ''
+conference:
+  name: Artificial Intelligence Diversity, Belonging, Equity, and Inclusion
+  url:
+  location: Virtual
+  dates:
+  - 2021-02-09
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v142/AIDBEI2021.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v142/AIDBEI2021.bib
